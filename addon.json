@@ -1,0 +1,16 @@
+[
+    {
+        "name" : "Advanced Skill Tooltips",
+        "file" : "advancedskilltooltips",
+        "extension" : "ipf",
+        "fileVersion" : "v1.0.1",
+        "releaseTag" : "v1.0.1",
+        "unicode" : "♬",
+        "description" : "Add additional information to skill tooltips. The additions are skill level, sp cost, cooldown, target, execution time, cancel time, required weapons, jumping usability, riding usability and available attributes.",
+        "tags" : [
+            "skill",
+            "tooltip",
+            "ui"
+        ]
+    }
+]
