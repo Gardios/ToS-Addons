@@ -12,7 +12,7 @@ This addon expands skill tooltips with more information. The added information i
 * Riding usability
 * Available attributes (active/inactive)
 
-![image](https://i.imgur.com/0jnNGxx.png)
+![image](http://i.imgur.com/AFwTbFD.jpg)
 
 # Installation
 Use [Excrulon's Addon Manager](https://github.com/Excrulon/Tree-of-Savior-Addon-Manager/releases/latest). Check [here](https://github.com/Excrulon/Tree-of-Savior-Addon-Manager) for more information regarding the installation of the manager.
